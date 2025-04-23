@@ -45,3 +45,43 @@
 //     text+=key+" is "+value;
     
 // })
+// console.log(text);
+// const fruits=new Map([["apple",100],["banana",200],["orange",300]]);     
+// let text="";
+// fruits.forEach(function(value,key){
+//     text+=key+" is "+value;
+// })
+// })// console.log(text);
+// const fruits=new Map([["apple",100],["banana",200],["orange",300]]); 
+// let text="";
+// fruits.forEach(function(value,key){  
+//     text+=key+" is "+value;
+// })
+// DESTRUCTURING 
+
+// const person ={
+//     firstname:"John",
+//     lastname:"Doe",
+//     age:50,
+// };
+// let {firstname,lastname,age}=person;
+// console.log(firstname,lastname,age);
+
+//Object Default Values
+// For potentially missing values, we can set default values in the destructuring assignment
+// const person ={
+//     firstname:"John",
+//     lastname:"Doe",
+//     age:50,
+// };
+// let {firstname,lastname,}=person;
+// console.log(firstname,lastname,age=13);
+
+//object property alias
+// const person ={
+//     firstname:"John",
+//     lastname:"Doe",
+//     age:50,
+// };
+// let {firstname:fn,lastname:ln,age}=person;  
+// console.log(fn,ln,age);
