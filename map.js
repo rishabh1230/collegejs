@@ -85,3 +85,22 @@
 // };
 // let {firstname:fn,lastname:ln,age}=person;  
 // console.log(fn,ln,age);
+// let name ="GurukulTheSchools";
+// let[a1,a2,a3,a4,a5] = name;
+// console.log(a1);
+// const fruits = ["Bananas","Oranges","Apples","Mangoes"];
+// let{[0]:fruit1,[1]:fruit2}=fruits;
+// // console.log(fruits);
+// let firstname ="John";
+// let lastname="Doe";
+// firstname,l
+// ARRAY INCLUDES
+// fruits.includes( exists)
+// fruits.includes(exits)
+cnst person={
+    firstname:"John",
+    ,
+
+    age:30;,
+
+}
