@@ -97,10 +97,10 @@
 // ARRAY INCLUDES
 // fruits.includes( exists)
 // fruits.includes(exits)
-cnst person={
-    firstname:"John",
-    ,
+// cnst person={
+//     firstname:"John",
+//     ,
 
-    age:30;,
+//     age:30;,
 
-}
+// }
